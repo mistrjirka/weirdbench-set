@@ -1,0 +1,8 @@
+[submodule "weird-bench"]
+	path = weird-bench
+	url = git@github.com:mistrjirka/weird-bench.git
+	branch = main
+[submodule "weird-bench-site"]
+	path = weird-bench-site
+	url = git@github.com:mistrjirka/weird-bench-site.git
+	branch = main
